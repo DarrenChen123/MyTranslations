@@ -58,3 +58,15 @@ fastlane/screenshots
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+.sync/*
+
+.me_configs.data
+
+.z_sync_configs.data
+
+sync_changes.log
+
+sync_hook.script
+
+**/.Archive
